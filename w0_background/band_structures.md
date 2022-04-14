@@ -250,7 +250,7 @@ Since $L$ and $R$ on a given unit-cell surrounded one of the shorter bonds (i.e.
 This notion of an insulator is rather important in our course.
 So let us dwell on this a bit further. Assuming we have a periodic ring with $2N$ atoms so that $n$ takes $N$ values, single valuedness of the wave-function $\psi_{(l,n)}$ requires that $e^{i k N}=1$. 
 This means that $k$ is allowed $N$ discrete values separated by $2\pi/N$ spanning the range $[-\pi,\pi]$. 
-Next to describe the lower-energy state of the electrons we can fill only the lower eigenvalue $E^{(-)}(k)$ with ane electron at each $k$ leaving the upper state empty. 
+Next to describe the lower-energy state of the electrons we can fill only the lower eigenvalue $E^{(-)}(k)$ with an electron at each $k$ leaving the upper state empty. 
 This describes a state with $N$ electrons. Furthermore, we can see that to excite the system one would need to transfer an electron from a negative energy state to a positive energy state that would cost at least $2(t_1-t_2)$ in energy. 
  Such a gapped state with a fixed number of electrons cannot respond to an applied voltage and as such must be an insulator. 
 
